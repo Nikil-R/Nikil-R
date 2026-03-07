@@ -29,19 +29,14 @@ I enjoy building intelligent systems that solve real-world problems using AI. Re
 `OpenAI` • `Claude` • `Groq` • `Ollama`
 
 **Data & Databases**  
-`Pandas` • `NumPy` • `PostgreSQL` • `MongoDB` • `Redis` • `ChromaDB` • `FAISS` • `Pinecone`
+`Pandas` • `NumPy` • `MongoDB` • `Redis` • `ChromaDB`
 
 **Backend & APIs**  
-`FastAPI` • `Flask` • `Node.js`
+`FastAPI` • `Node.js`
 
 **Cloud & MLOps**  
-`AWS` • `Docker` • `Kubernetes`
+`AWS` • `Docker` 
 
-**Frontend for AI Apps**  
-`React` • `Next.js` • `Streamlit` • `Gradio` • `Tailwind CSS`
-
-**Tools**  
-`Git` • `Postman` • `VS Code` • `Jupyter`
 
 ---
 
