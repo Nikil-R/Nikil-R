@@ -3,7 +3,10 @@
 # Nikil R
 
 **AI Engineer · Backend Engineer**
-Bangalore, India
+
+Building AI-powered systems, retrieval architectures, and scalable backend platforms.
+
+Bangalore, India · Open to work
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikil-r)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nikil@email.com)
@@ -13,101 +16,112 @@ Bangalore, India
 
 ---
 
-I build AI systems that go beyond demos — production-grade pipelines that handle real data, real failure modes, and real scale. My work sits at the intersection of **agentic AI**, **backend infrastructure**, and **retrieval-augmented systems**.
+<div align="center">
 
-Currently focused on distributed AI backends and multi-agent orchestration. Interested in roles where the engineering bar is high and the problem space is genuinely hard.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikil-r&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true&rank_icon=github)
+![GitHub Streak](https://streak-stats.demolab.com?user=nikil-r&theme=github-dark&hide_border=true)
+
+</div>
 
 ---
 
 ## Featured Projects
 
 ### LegalFinance RAG Platform
-> AI-powered document intelligence for legal and financial corpora
+AI-powered document intelligence system for legal and financial knowledge retrieval.
 
-Semantic search pipeline over complex, domain-specific documents. Built a multi-stage ingestion system with chunking strategies tuned for legal structure, hybrid retrieval (dense + sparse), and a FastAPI backend serving LLM-augmented responses with source attribution.
+<!-- Add architecture diagram here: ![Architecture](./assets/legalfinance-arch.png) -->
 
-**Stack:** FastAPI · ChromaDB · LangChain · PostgreSQL · OpenAI API · Docker
+**Tech:** FastAPI · LangChain · ChromaDB · PostgreSQL · Docker · OpenAI API
+
+**Highlights**
+- End-to-end document ingestion and chunking pipeline
+- Semantic search over large legal and financial corpora
+- RAG pipeline with LLM-powered question answering and source attribution
+- REST API backend with async request handling
+
+[→ View Repository](#) &nbsp;·&nbsp; [→ Live Demo](#)
 
 ---
 
 ### Delivery Infrastructure Platform
-> Distributed backend for high-throughput logistics workflows
+Distributed backend platform for delivery workflow orchestration.
 
-Designed and built the core backend from scratch — async task queues, geospatial routing queries via PostGIS, and workflow orchestration across services. Built to handle concurrent delivery state transitions with Redis-backed caching and Celery workers for background processing.
+<!-- Add architecture diagram here: ![Architecture](./assets/delivery-arch.png) -->
 
-**Stack:** FastAPI · PostgreSQL/PostGIS · Redis · Celery · AWS · Docker · Nginx
+**Tech:** FastAPI · PostgreSQL · Redis · Celery · AWS · Docker · Nginx
 
----
+**Highlights**
+- Async task queues for concurrent delivery state management
+- Redis-backed caching layer for high-throughput reads
+- Background job processing with Celery workers
+- Deployable on AWS with Nginx reverse proxy
 
-### Restaurant POS System
-> Production system deployed at Nano Stream Technologies
-
-Contributed feature development, debugging, and deployment work on a live POS system used in production. Worked across the full stack with real operational constraints — uptime requirements, edge-case handling, and iterative rollouts.
-
-**Stack:** React · TypeScript · FastAPI · PostgreSQL
-
----
-
-## Technical Skills
-
-```
-AI / ML          LangGraph · LangChain · RAG · Vector Databases · LLM Integration
-                 ChromaDB · Agentic Systems · Prompt Engineering · Semantic Search
-
-Backend          FastAPI · PostgreSQL · Redis · Celery · REST APIs
-                 Async Python · Distributed Systems · Workflow Orchestration
-
-Infrastructure   Docker · AWS (EC2, S3, RDS) · Nginx · Linux · CI/CD
-
-Frontend         React · TypeScript · Streamlit
-
-Languages        Python (primary) · TypeScript · SQL
-```
+[→ View Repository](#)
 
 ---
 
-## Areas of Depth
+## Tech Stack
 
-- **Retrieval-Augmented Generation** — chunking strategies, hybrid retrieval, reranking, eval pipelines
-- **Agentic Systems** — multi-agent orchestration with LangGraph, tool use, memory architectures
-- **Backend Architecture** — async APIs, task queues, caching layers, database design
-- **AI Infrastructure** — vector store management, embedding pipelines, LLM serving patterns
+**AI / ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-F97316?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
 
 ## Experience
 
-**AI / Full Stack Developer Intern** · Nano Stream Technologies
-*Built and shipped features on a production restaurant POS system. Handled deployment, debugging, and real-world engineering constraints in a live product environment.*
+**AI / Full Stack Developer Intern · Nano Stream Technologies**
+
+Worked on a production restaurant POS system — feature development, debugging, and deployment across the full stack. Real operational constraints: uptime requirements, edge cases, and iterative rollouts in a live environment.
 
 ---
 
-## GitHub Stats
+## Focus Areas
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikil-r&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=nikil-r&theme=github-dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikil-r&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
-
-</div>
+- **Retrieval-Augmented Generation** — document ingestion, semantic search, LLM-powered QA
+- **Agentic AI Systems** — multi-step reasoning chains, tool use, LangGraph workflows
+- **Backend Engineering** — async APIs, task queues, caching, distributed system design
+- **AI Infrastructure** — vector store management, embedding pipelines, scalable LLM serving
 
 ---
 
-## Open to Opportunities
+## Open To
 
-Looking for **AI Engineer** or **Backend Engineer** roles at companies building at the frontier — AI infrastructure, developer tools, agentic products, or technically demanding product backends.
+**AI Engineer · Backend Engineer · GenAI Engineer · Platform Engineer · Full-Stack Developer**
 
-Remote-friendly. Open to relocating for the right opportunity.
+Interested in roles building AI infrastructure, agentic systems, developer tools, or technically demanding backend platforms. Remote-friendly. Open to relocating for the right opportunity.
 
-**Reach out:** [nikil@email.com](mailto:nikil@email.com) · [linkedin.com/in/nikil-r](https://linkedin.com/in/nikil-r)
+**→ [nikil.r.connect@email.com](mailto:nikil.r.connect@email.com)**
 
 ---
 
 <div align="center">
-
-<sub>Bangalore, India · Open to work</sub>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikil-r&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 </div>
