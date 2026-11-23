@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="140" viewBox="0 0 220 140" role="img" aria-label="1,250+ REQUESTS PER SECOND">
+  <defs>
+    <linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34D399"/><stop offset="1" stop-color="#059669" stop-opacity="0.35"/></linearGradient>
+    <linearGradient id="num" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34D399"/><stop offset="1" stop-color="#10B981"/></linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.42" r="0.6"><stop offset="0" stop-color="#10B981" stop-opacity="0.22"/><stop offset="1" stop-color="#10B981" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect x="1" y="1" width="218" height="138" rx="16" fill="#0d1117"/>
+  <rect x="1" y="1" width="218" height="138" rx="16" fill="url(#glow)"/>
+  <rect x="1" y="1" width="218" height="138" rx="16" fill="none" stroke="url(#bd)" stroke-width="1.6"/>
+  <rect x="18" y="1" width="46" height="3" rx="1.5" fill="#10B981"/>
+  <g transform="translate(180 14) scale(0.9)"><path d="M13 2 4 14h6l-1 8 9-12h-6z" fill="none" stroke="#34D399" stroke-width="1.8" stroke-linejoin="round"/></g>
+  <text x="110" y="76" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="42" font-weight="800" fill="url(#num)">1,250+</text>
+  <text x="110" y="102" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="700" letter-spacing="1.6" fill="#E5E7EB">REQUESTS PER SECOND</text>
+  <text x="110" y="121" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#9CA3AF">stress-tested FastAPI</text>
+</svg>
