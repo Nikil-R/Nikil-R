@@ -4,19 +4,18 @@
 
 <a href="https://github.com/Nikil-R"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=34D399&center=true&vCenter=true&width=760&height=40&lines=AI+%26+Systems+Engineer+%C2%B7+Backend+Architect;LangGraph+Multi-Agent+Swarms+%C2%B7+Autonomous+Workflows;FastAPI+Microservices+%C2%B7+1%2C250%2B+RPS+%C2%B7+Sub-25ms+P99;Immediate+Joiner+%C2%B7+Bengaluru+%C2%B7+Remote+or+Relocate" alt="typing" /></a>
 
-<br/><br/>
+<br/>
 
 <a href="https://www.nikil.tech/"><img src="https://img.shields.io/badge/PORTFOLIO-nikil.tech-15803D?style=for-the-badge&logo=vercel&logoColor=white&labelColor=052E16" /></a>
 <a href="https://linkedin.com/in/nikil-r1"><img src="https://img.shields.io/badge/LINKEDIN-Nikil--R1-10B981?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=052E16" /></a>
 <a href="mailto:nikil.r.connect@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Get%20in%20touch-F59E0B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=052E16" /></a>
 
-<br/><br/>
+<br/>
 
 <img src="assets/stat-rps.svg" width="170" alt="1,250+ requests per second" />
 <img src="assets/stat-p99.svg" width="170" alt="Under 25 ms P99 latency" />
 <img src="assets/stat-tests.svg" width="170" alt="191 automated tests" />
 <img src="assets/stat-fuzz.svg" width="170" alt="100,000 fuzzed CRDT schedules" />
-<img src="assets/stat-diverge.svg" width="170" alt="0 divergences" />
 
 </div>
 
@@ -203,7 +202,7 @@ Built during the NanoStream internship. Multi-tenant Admin and SuperAdmin dashbo
 <img height="165" src="https://streak-stats.demolab.com?user=nikil-r&background=0D1117&border=0D1117&ring=10B981&fire=F59E0B&currStreakLabel=10B981&currStreakNum=FFFFFF&sideLabels=D1D5DB&sideNums=FFFFFF&dates=9CA3AF" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikil-r&layout=compact&hide_border=true&title_color=10B981&text_color=D1D5DB&bg_color=0D1117&langs_count=6" />
 
-<br/><br/>
+<br/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nikil-r&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=10B981&line=F59E0B&point=ffffff" />
 
